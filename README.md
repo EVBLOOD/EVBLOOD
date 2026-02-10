@@ -4,7 +4,7 @@ I design and build software systems. Sometimes from the ground up, sometimes by 
 
 My work spans backend, frontend, and infrastructure, but I don’t define myself by a stack. What I rely on most is my ability to adapt quickly, understand unfamiliar systems, and make solid technical decisions under real constraints.
 
-I’ve built full-stack applications, real-time systems, and long-running projects where correctness, state, and maintainability actually matter. I’m comfortable owning a system end-to-end — from early architecture decisions to debugging production issues.
+I’ve built full-stack applications, real-time systems, and long-running projects where correctness, state, and maintainability actually matter. I’m comfortable owning a system end-to-end, from early architecture decisions to debugging production issues.
 
 ### What I work on
 - Backend and API design
