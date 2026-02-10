@@ -1,9 +1,34 @@
-<h2 align="center">Hello world!</h2>
-<h3 align="center">42 student (1337 in Morocco)</h3>
+Hi, I’m Saad.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=evblood&label=Profile%20views&color=0e75b6&style=flat" alt="evblood" /> </p>
-<h3 align="center">You can connect me in:</h3>
-<p align="center">
-<a href="https://twitter.com/blood_ev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blood_ev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saadakllam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadakllam" height="30" width="40" /></a>
-</p>
+I design and build software systems. Sometimes from the ground up, sometimes by stepping into existing ones and making sense of them.
+
+My work spans backend, frontend, and infrastructure, but I don’t define myself by a stack. What I rely on most is my ability to adapt quickly, understand unfamiliar systems, and make solid technical decisions under real constraints.
+
+I’ve built full-stack applications, real-time systems, and long-running projects where correctness, state, and maintainability actually matter. I’m comfortable owning a system end-to-end — from early architecture decisions to debugging production issues.
+
+### What I work on
+- Backend and API design
+- Full-stack web applications
+- Real-time and event-driven systems
+- System design, refactoring, and cleanup
+- Projects that require fast context-switching and ownership
+
+### How I work
+- Understand the problem and constraints before choosing tools
+- Build a clear mental model of the system
+- Prefer simple, explainable solutions over clever ones
+- Optimize for stability and long-term clarity
+
+### Work context
+- Freelance & contract work (new builds and takeover projects)
+- Remote-friendly
+- Comfortable working independently or inside existing teams
+
+You’ll find here:
+- Full-stack applications
+- Real-time and multiplayer projects
+- Systems-oriented work from my 42 background
+- Experiments and long-running codebases
+
+Links:
+- LinkedIn: https://www.linkedin.com/in/saadakllam/
